@@ -1,2 +1,4 @@
 # AML-homeWork2
-Training a Convolutional neural network with AlexNet
+Train a Convolution Neural Network for image classification:
+○ CNN: AlexNet
+○ Images: Caltech-101
